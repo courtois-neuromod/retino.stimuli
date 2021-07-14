@@ -1,0 +1,1 @@
+bcc8b6d5-f2a5-41fc-b4b8-2520230dc7d9 autoenable=true bucket=cneuromod.retino.stimuli chunk=1GiB datacenter=US encryption=none exporttree=no host=s3.unf-montreal.ca name=s3unf.cneuromod.retino.stimuli port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1626291187.108301281s
